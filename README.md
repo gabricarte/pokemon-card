@@ -22,12 +22,8 @@ npm install`
    `npm start`
 
 4. Open http://localhost:3000 in your web browser to view the application.
-   Usage
-
+  
 5. Once the application is running, you can use it to view information about any Pokemon. Simply press "Capture" and the application will display a card with information about the Pokemon, including its attack, speed, HP, and defense.
-
-Contributing
-If you want to contribute to this project, follow the instructions below:
 
 # Credits
 
